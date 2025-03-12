@@ -34,8 +34,3 @@ pipeline{
   }
     }
 }
-stage(dockerImage){
-    steps{
-        sh 'docker magnadlskfj'
-    }
-}
